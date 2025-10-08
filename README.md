@@ -1,6 +1,5 @@
 Hi there, I'm Anushka Gupta! 👋
 
-
 Student | Data Scientist | Software Engineer | Data Analyst
 
 👩‍💻 About Me
