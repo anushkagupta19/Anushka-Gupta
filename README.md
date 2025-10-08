@@ -30,7 +30,4 @@ Driven by curiosity and creativity.
 
 - [LinkedIn](https://www.linkedin.com/in/anushka-gupta-bb0372328/)
 - [HackerRank](https://www.hackerrank.com/profile/ag_5763076)
-- [LeetCode](https://leetcode.com/u/anushkag_1_9/)
----
-
-*“Creativity is intelligence having fun.”* – Anushka Gupta
+- [LeetCode](https://leetcode.com/u/anushkag_1_9/).
