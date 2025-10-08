@@ -20,23 +20,6 @@ Driven by curiosity and creativity, I specialize in building practical AI-powere
 
 ---
 
-### 🚀 Projects
-
-#### **VidSnap-AI: Automated Video Reel Generator**
-*Python, Flask, ElevenLabs API, FFmpeg, HTML/CSS*
-- Built a full-stack Python application to automatically generate social media video reels from images and text.
-- Integrated ElevenLabs API for realistic AI-powered text-to-speech narration.
-- Automated video creation with FFmpeg, combining audio and visuals into shareable, vertical-format reels.
-
-#### **AI-Powered Fake News Detector**
-*Python, Flask, Scikit-learn, NLTK, JavaScript, HTML/CSS*
-- Developed a full-stack web app to classify news as real or fake—combating online misinformation.
-- Engineered a Python Flask backend exposing a Scikit-learn Decision Tree model via REST API.
-- Designed NLP pipelines (NLTK, Scikit-learn) for text preprocessing and TF-IDF feature extraction.
-- Built an interactive frontend for instant news credibility analysis.
-
----
-
 ### 🎨 Hobbies
 
 - **Painting:** Expressing creativity through colors and canvases.
