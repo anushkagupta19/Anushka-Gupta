@@ -7,7 +7,7 @@
 ### 👩‍💻 About Me
 
 I’m currently pursuing a **B.Tech in Computer Science and Data Science** (2023–2027) at the Oriental Institute of Science and Technology, Bhopal.  
-Driven by curiosity and creativity, I specialize in building practical AI-powered tools—whether it's fighting misinformation or automating creative content. I thrive at the intersection of data, software, and real-world impact. When I’m not coding, you’ll find me painting and exploring new creative outlets.
+Driven by curiosity and creativity.
 
 ---
 
@@ -31,7 +31,6 @@ Driven by curiosity and creativity, I specialize in building practical AI-powere
 - [LinkedIn](https://www.linkedin.com/in/anushka-gupta-bb0372328/)
 - [HackerRank](https://www.hackerrank.com/profile/ag_5763076)
 - [LeetCode](https://leetcode.com/u/anushkag_1_9/)
-- [Unstop](https://unstop.com/u/anushgup85396)
 ---
 
 *“Creativity is intelligence having fun.”* – Anushka Gupta
